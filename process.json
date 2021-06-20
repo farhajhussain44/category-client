@@ -1,4 +1,4 @@
 {
-  "name": "server",
+  "name": "client",
   "script": "npm start"
 }
